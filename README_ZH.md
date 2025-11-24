@@ -33,7 +33,7 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 <p align="center">
 
-![a1](/Users/mhr/sources/footprint-sns/readme_img/a1.png)
+![a1](./readme_img/a1.png)
 
 ![a2](/Users/mhr/sources/footprint-sns/readme_img/a2.png)
 
