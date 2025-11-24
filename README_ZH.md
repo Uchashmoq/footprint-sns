@@ -1,4 +1,6 @@
 # 🌍 足迹 Footprint
+[English](README.md)
+[हिंदी](README_HIN.md)
 
 加入我们：📮`72e1bcgg@gmail.com` Ma Haoran
 
@@ -35,9 +37,9 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 ![a1](./readme_img/a1.png)
 
-![a2](/Users/mhr/sources/footprint-sns/readme_img/a2.png)
+![a2](./footprint-sns/readme_img/a2.png)
 
-![a3](/Users/mhr/sources/footprint-sns/readme_img/a3.png)
+![a3](./footprint-sns/readme_img/a3.png)
 
 ------
 
@@ -48,9 +50,9 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 还能打开用户主页，查看他的旅行轨迹与拍摄位置。
 
-![b2](/Users/mhr/sources/footprint-sns/readme_img/b2.png)
+![b2](./footprint-sns/readme_img/b2.png)
 
-![b1](/Users/mhr/sources/footprint-sns/readme_img/b1.png)
+![b1](./footprint-sns/readme_img/b1.png)
 
 ------
 
@@ -65,9 +67,9 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 让旅行作品更有组织，也更便于展示。
 
-![c2](/Users/mhr/sources/footprint-sns/readme_img/c2.png) 
+![c2](./footprint-sns/readme_img/c2.png) 
 
-![c1](/Users/mhr/sources/footprint-sns/readme_img/c1.png)
+![c1](./footprint-sns/readme_img/c1.png)
 
 
 
