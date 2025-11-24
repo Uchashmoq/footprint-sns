@@ -33,13 +33,13 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 - ⬇️ 下载 RAW
 - 👤 访问你的主页
 
-<p align="center">
+
 
 ![a1](./readme_img/a1.png)
 
-![a2](./footprint-sns/readme_img/a2.png)
+![a2](./readme_img/a2.png)
 
-![a3](./footprint-sns/readme_img/a3.png)
+![a3](./readme_img/a3.png)
 
 ------
 
@@ -50,9 +50,9 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 还能打开用户主页，查看他的旅行轨迹与拍摄位置。
 
-![b2](./footprint-sns/readme_img/b2.png)
+![b2](./readme_img/b2.png)
 
-![b1](./footprint-sns/readme_img/b1.png)
+![b1](./readme_img/b1.png)
 
 ------
 
@@ -67,9 +67,9 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 让旅行作品更有组织，也更便于展示。
 
-![c2](./footprint-sns/readme_img/c2.png) 
+![c2](./readme_img/c2.png) 
 
-![c1](./footprint-sns/readme_img/c1.png)
+![c1](./readme_img/c1.png)
 
 
 

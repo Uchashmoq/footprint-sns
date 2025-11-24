@@ -33,13 +33,13 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 - ⬇️ RAW डाउनलोड  
 - 👤 आपका प्रोफ़ाइल देखें  
 
-<p align="center">
+
 
 ![a1](./readme_img/a1.png)
 
-![a2](./footprint-sns/readme_img/a2.png)
+![a2](./readme_img/a2.png)
 
-![a3](./footprint-sns/readme_img/a3.png)
+![a3](./readme_img/a3.png)
 
 ------
 
@@ -50,9 +50,9 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 आप किसी भी उपयोगकर्ता की प्रोफ़ाइल खोलकर उनकी यात्रा और फ़ोटोग्राफ़ी लोकेशनों को देख सकते हैं।
 
-![b2](./footprint-sns/readme_img/b2.png)
+![b2](./readme_img/b2.png)
 
-![b1](./footprint-sns/readme_img/b1.png)
+![b1](./readme_img/b1.png)
 
 ------
 
@@ -67,9 +67,9 @@ Next.js · Tailwind CSS · DaisyUI · Prisma · react-leaflet · Clerk
 
 इससे फ़ोटो बेहतर तरीके से व्यवस्थित और प्रदर्शित होती हैं।
 
-![c2](./footprint-sns/readme_img/c2.png)
+![c2](./readme_img/c2.png)
 
-![c1](./footprint-sns/readme_img/c1.png)
+![c1](./readme_img/c1.png)
 
 ------
 

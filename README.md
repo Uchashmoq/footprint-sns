@@ -33,13 +33,13 @@ Other users can:
 - ⬇️ Download RAW  
 - 👤 Visit your profile  
 
-<p align="center">
+
 
 ![a1](./readme_img/a1.png)
 
-![a2](./footprint-sns/readme_img/a2.png)
+![a2](./readme_img/a2.png)
 
-![a3](./footprint-sns/readme_img/a3.png)
+![a3](./readme_img/a3.png)
 
 ------
 
@@ -50,9 +50,9 @@ A city, a coast, a mountain… discover what stories happened there.
 
 You can also visit a user’s profile to see their travel history and shooting locations.
 
-![b2](./footprint-sns/readme_img/b2.png)
+![b2](./readme_img/b2.png)
 
-![b1](./footprint-sns/readme_img/b1.png)
+![b1](./readme_img/b1.png)
 
 ------
 
@@ -67,9 +67,9 @@ Users can create themed albums, such as:
 
 This helps organize travel photos and makes them easier to showcase.
 
-![c2](./footprint-sns/readme_img/c2.png) 
+![c2](./readme_img/c2.png) 
 
-![c1](./footprint-sns/readme_img/c1.png)
+![c1](./readme_img/c1.png)
 
 ------
 
